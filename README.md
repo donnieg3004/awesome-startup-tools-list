@@ -223,9 +223,11 @@ This is a curated list about tools for everything from productivity to hosting t
 - Logo Joy - https://logojoy.com
 - Logaster - https://www.logaster.com/
 - Cool Text - http://cooltext.com/
+- Brand Banao - https://brandbanao.com
 - Online Logo Maker 24 - http://onlinelogomaker24.com
 - Free Logo Services - http://freelogoservices.com
 - Graphic Springs - http://graphicsprings.com
+- Enthof - https://enthof.com.sg
 - Design Mantic - http://designmantic.com
 - Zillion Designs - http://zilliondesigns.com
 - Logo Maker - http://logomaker.com
